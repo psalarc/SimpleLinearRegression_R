@@ -1,6 +1,6 @@
 # Car Price Prediction — Linear Regression in R
 
-A statistical regression analysis project that models used car prices using a progression of linear models, from simple univariate regression through to polynomial and interaction-term models. Built in R as part of coursework at New Jersey Institute of Technology (MSD325).
+A statistical regression analysis project that models used car prices using a progression of linear models, from simple univariate regression through to polynomial and interaction-term models. Built in R as part of coursework at Rider University (MSD325).
 
 ---
 
